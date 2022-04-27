@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 using UnityEditor;
 #endif
 
+[DefaultExecutionOrder(1000)]
 public class MainMenu : MonoBehaviour
 {
     // Start is called before the first frame update
